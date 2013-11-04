@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		001D90681827DFCF0065241F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 001D90671827DFCF0065241F /* README.md */; };
 		0035D60718269C9600CBDC97 /* DlUserListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0035D60618269C9600CBDC97 /* DlUserListViewController.m */; };
 		0036C09A1824925700DF409C /* DlUserInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0036C0991824925700DF409C /* DlUserInfoViewController.m */; };
 		0036C09D1824927D00DF409C /* DlLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0036C09C1824927D00DF409C /* DlLoginViewController.m */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		001D90671827DFCF0065241F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		0035D60518269C9600CBDC97 /* DlUserListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DlUserListViewController.h; sourceTree = "<group>"; };
 		0035D60618269C9600CBDC97 /* DlUserListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DlUserListViewController.m; sourceTree = "<group>"; };
 		0036C0981824925700DF409C /* DlUserInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DlUserInfoViewController.h; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		787E8938181F582D00DACC95 = {
 			isa = PBXGroup;
 			children = (
+				001D90671827DFCF0065241F /* README.md */,
 				787E894A181F582D00DACC95 /* EasyAPI-iPhone */,
 				787E8969181F582D00DACC95 /* EasyAPI-iPhoneTests */,
 				787E8943181F582D00DACC95 /* Frameworks */,
@@ -264,6 +267,7 @@
 			files = (
 				787E895D181F582D00DACC95 /* Images.xcassets in Resources */,
 				787E894F181F582D00DACC95 /* InfoPlist.strings in Resources */,
+				001D90681827DFCF0065241F /* README.md in Resources */,
 				787E8958181F582D00DACC95 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
