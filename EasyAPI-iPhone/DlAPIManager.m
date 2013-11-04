@@ -10,9 +10,7 @@
 
 
 NSString *kServerUrl = @"http://127.0.0.1:8000/";
-//NSString *kServerUrl = @"http://192.168.90.114:8000/";
 //NSString *kServerUrl = @"http://192.168.1.105:8000/";
-//NSString *kServerUrl = @"http://192.168.1.105/";
 
 
 @interface DlAPIManager ()
